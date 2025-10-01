@@ -35,7 +35,7 @@ The primary goal was to evaluate how well the ad campaigns performed, identify t
 Overall, the campaigns generated substantial impressions and clicks, but performance varied widely. While some campaigns delivered strong conversions with efficient spend, others had high impressions but poor conversion rates. This suggests that optimization in targeting is needed.  
 
 ### 2. Which campaign_id had the highest impressions?  
-The analysis revealed that **Campaign ID [Insert_ID]** recorded the highest impressions, indicating broad reach but requiring further evaluation of conversion effectiveness.  
+The analysis revealed that **Campaign ID 1178** recorded the highest impressions, indicating broad reach but requiring further evaluation of conversion effectiveness.  
 
 ### 3. Which campaign_id had the highest interest?  
 Based on engagement and conversions, **Campaign ID 936** had the strongest interest, showing better audience alignment with the ad content.  
